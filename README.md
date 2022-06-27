@@ -1,0 +1,1 @@
+# Site-Guia-genshin2.0
