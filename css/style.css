@@ -1,0 +1,293 @@
+
+
+    
+    .wrapper{
+        width: 100%;
+        height:100%;
+        left: 0px;
+       top: 0px;
+       position: absolute;
+       background-color: #202122;
+       
+       }
+
+      .amarela{
+    width: 7.5%;
+    height:15.3%;
+    left: 0px;
+   top: 0px;
+   position: absolute;
+   background-image: url(ayakagif.gif);
+   } 
+
+   .amarela2{
+    width: 7.5%;
+    height:15.3%;
+    left: 0px;
+   top: 0px;
+   position: absolute;
+   background-image: url(ganyu.gif
+   );
+   }
+
+   .amarela3{
+    width: 7.5%;
+    height:15.3%;
+    left: 0px;
+   top: 0px;
+   position: absolute;
+   background-image: url(yelan.gif);
+
+   }
+       
+   .wallpaper{
+       background-image: url(ball.jpg);
+       height: 100%;
+       position: absolute;
+       width: 100%;
+       
+   
+   }
+   
+   
+   
+   
+   
+       .topo{
+           width: 85%;
+           height:15%;
+           left: 0px;
+           right: 0px;
+          top: 0px;
+          position: relative;
+          background-color: #202122;
+          text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 45px;
+   color: #ffffff;
+   text-shadow: 0 0 3px #a29da7;    
+       margin-left: 7.5%;
+       margin-right: 7.5%;
+       
+          }
+       
+         
+       
+          .menu{
+           width: 6.7%;
+           height: 75%;
+           left: 0px;
+          top: 0px;
+          position: relative;
+          background-color: #202122;
+          font-size: 24px;
+          box-shadow: #ffffff  ;
+          border-style: groove;
+          opacity: 0.8;
+          }
+
+
+       
+   
+   
+          .text{
+           width: 85%;
+           height:78.3%;
+           right: 0px;
+           margin-left: 7.5%;
+           margin-right: 7.5%;
+           top: 15%;
+           position: absolute;
+           background-color: #202122;
+           border-style: solid;
+           font-size: 35px;
+           text-align: center;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           color: #ffffff;
+           opacity: 0.9;
+   
+   
+   
+          }
+   
+          .atualizacao{
+           width: 85%;
+           height:85%;
+           right: 0px;
+           margin-left: 7.5%;
+           margin-right: 7.5%;
+           top: 15%;
+           position: absolute;
+           background-color: #202122;
+           font-size: 20px;
+           text-align: center;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           color: #ffffff;
+          }
+   
+          .carrossel{
+           width: 500px;
+       height: 300px;
+       overflow: hidden;
+           margin-left: 25%;
+              
+   
+          }
+   
+          .genshin27{
+           
+           text-align: center;
+           width: 500%;
+       animation: animation 7s infinite;  
+   
+   
+   
+   
+          }
+   
+          .carrossel .genshin27 img{
+   
+           width: 19.9%;
+          }
+   
+          @keyframes animation{
+           0%{margin-left: -50%;}
+           20%{margin-left: -50%;}
+           25%{margin-left: -150%;}
+           45%{margin-left: -150%;}
+           50%{margin-left: -250%;}
+           60%{margin-left: -250%;}
+           70%{margin-left: -250%;}
+           75%{margin-left: -350%;}
+           95%{margin-left: -350%;}
+           100%{margin-left: -50%;}
+           
+       }
+
+       .eventos{
+
+        opacity: 0%;
+       }
+
+       .novidades{
+        font-size: 35px;
+           color: #8c00ff;
+       }
+   
+       .missoes{
+   
+           font-size: 35px;
+           color: #8c00ff;
+   
+       }
+
+       .duração{
+        font-size: 35px;
+     
+        color: #8c00ff;
+       }
+          
+       
+          
+          .rodape{
+           width: 100%;
+           height:6%;
+           left: 0px;
+           bottom: 0%;
+           position: absolute;
+           background-color: #202122;
+          }
+
+          .hutao{
+            position: relative;
+           
+            top: -91.1px;
+            margin-left: 1600px;
+          }
+
+          .link{
+            top: 23px;
+            position: absolute;
+            left: 1400px;
+            font-size: 25px;
+          }
+          
+       
+          .desafios{
+            font-size: 30px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          }
+       
+          .farm{
+            font-size: 35px;
+           color: #8c00ff;
+
+          }
+
+          .foods{
+            text-align: center;
+            font-size: 22px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+          }
+
+
+       .slogan{
+           font-size: 20px;
+           font-family: sans-serif;
+           color: rgb(148, 155, 163);
+           text-align: top;
+           text-shadow: 0 0 3px #8c00ff;
+           text-decoration-line: underline;
+   
+       }
+   
+
+       .artefato{
+        text-align: right;
+        position: relative;
+       }
+
+       .artefato2{
+        text-align: left;
+        position: relative;
+        top: -220px;
+       }
+
+       .rota1{
+        text-align: center;
+        position: relative;
+        top: -430px;
+       }
+
+       .video{
+        top: 650px;
+        position: absolute;
+        left: 100px;
+        font-size: 30px;
+        background-color:#202122;
+       }
+
+       .youtube{
+
+       }
+
+       .proximo{
+        top: 650px;
+        position: absolute;
+        left: 1300px;
+        font-size: 30px;
+        background-color:#202122;
+       }
+
+       .index{
+        top: 650px;
+        position: absolute;
+        left: 1300px;
+        font-size: 30px;
+        background-color:#202122;
+
+       }
+       
+
+       
